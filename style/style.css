@@ -1,0 +1,42 @@
+
+body {
+  font-family: Arial, sans-serif; 
+  font-size: 16px; 
+  margin: 0;
+  padding: 0;
+}
+input{
+    background-color: grey;
+}
+h1 {
+  margin-bottom: 20px; 
+  text-align: center; 
+  color: orange;
+}
+
+.card {
+  background-color: #f5f5f5; 
+  border: 1px solid #ddd; 
+  padding: 20px;
+  width: 30rem; 
+  margin-top: 160px;
+  margin-right: 400px;
+  display: block;
+}
+
+.form-control {
+  width: 100%; 
+  padding: 10px; 
+  border: 1px solid #ccc; 
+}
+
+.fa-star {
+  font-size: 70px; 
+  
+}
+.check #a{
+    padding-left: 10px;
+}
+button{
+    
+}
